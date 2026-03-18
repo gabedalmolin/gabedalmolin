@@ -2,133 +2,130 @@
 
 # Gabriel Dalmolin
 
-### Full-stack engineer focused on scalable backends, resilient workflows, and production-grade systems.
+### Software Engineer focused on backend architecture, reliable APIs, and scalable systems
 
 <p>
   <a href="https://github.com/gabedalmolin">
-    <img src="https://img.shields.io/badge/GitHub-profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gabedalmolin/">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-First-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/API%20Design-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Async%20Workflows-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Production%20Reliability-111827?style=flat-square" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
 <p>
-  I build software with a backend-first mindset: explicit contracts, clean architecture, reliable integrations, and delivery standards that hold up in production.
+  I build systems with a backend-first mindset: explicit contracts, resilient workflows, dependable integrations, and maintainable architecture that holds up in production.
 </p>
 
 </div>
 
 ---
 
-## About me
+## About
 
-I am a full-stack engineer who cares deeply about how software behaves beyond the happy path.
+I am a software engineer with 6+ years of experience across backend development, automation, internal tooling, and cross-functional delivery.
 
-I enjoy building systems that are reliable, maintainable, and safe to evolve. My strongest interests sit around backend architecture, resilient workflows, asynchronous processing, and engineering discipline, while remaining comfortable across frontend, tooling, integration, and product-facing work when the problem demands it.
+My focus is building systems that remain reliable, understandable, and safe to evolve as complexity grows, especially where API contracts, asynchronous workflows, idempotency, integration boundaries, and long-term maintainability matter.
 
-My core stack includes TypeScript, JavaScript, Node.js, PostgreSQL, React, and Vue. I am currently expanding my experience with Next.js, and I also have hands-on experience with Java, Lua, Python, C++, Prisma, Tailwind CSS, internal tooling, automation, and modern API workflows.
+I work primarily with **TypeScript, Node.js, PostgreSQL, Docker, React, and Vue**, with additional hands-on experience in **Next.js, Prisma, Python, Java, Lua, and C++**.
 
-What drives me most is building software that stays understandable as it grows and remains dependable when real-world complexity starts to show up.
-
----
-
-## What I bring
-
-- Backend-first engineering with strong attention to architecture, data flow, and operational reliability
-- Full-stack delivery across APIs, admin panels, dashboards, and internal tools
-- Experience designing automations, integrations, and data workflows that remove manual effort
-- A practical product and operations mindset shaped by SaaS, e-commerce, and marketplace environments
+Currently, I am building software products through **Kopf Studio**, with an emphasis on backend architecture, contract-driven APIs, production-ready infrastructure, and resilient workflows.
 
 ---
 
-## Leadership and execution
+## What I focus on
 
-Alongside hands-on engineering work, I have also taken on manager and coordinator responsibilities. That experience shaped how I think about delivery, ownership, and building systems that support real operational needs.
-
-- aligning technical work with business outcomes
-- coordinating stakeholders, priorities, and timelines
-- improving team execution through documentation, onboarding, and process clarity
-- building systems that support operations, not just code that looks good in isolation
-
-I have also worked in content and community-facing roles, which strengthened my communication, consistency, and iterative improvement mindset.
-
----
-
-## Areas I care about most
-
-- scalable backend design
-- clean architecture and modular systems
-- idempotent workflows and fault tolerance
-- asynchronous job processing
-- payment and billing domains
-- developer experience, CI, and test strategy
-- maintainability as a long-term engineering advantage
+- Scalable backend architecture
+- Reliable API design and contract clarity
+- Idempotent and fault-tolerant workflows
+- Asynchronous job processing
+- Authentication, billing, and integration-heavy systems
+- Developer experience, testing, and CI
+- Maintainability as a long-term engineering advantage
 
 ---
 
-## Featured project
+## Featured Projects
 
-### GrantLedger
+### [GrantLedger](https://github.com/gabedalmolin/grantledger-platform)
 
-A backend-first SaaS billing platform designed around correctness, operability, and architectural clarity.
+**Multi-tenant SaaS billing backend** built around correctness, reliability, and safe evolution.
 
-It explores real engineering concerns such as:
-
-- multi-tenant boundaries
-- schema-first contracts
-- durable idempotency
-- webhook replay handling
-- asynchronous invoice orchestration
-- Postgres-backed persistence
+**Highlights**
+- Schema-first API contracts
+- Multi-tenant boundaries
+- Idempotent workflows
+- Replay-safe webhook handling
+- Asynchronous invoice orchestration
+- Retry and dead-letter semantics
+- PostgreSQL-backed persistence
 - CI-enforced quality gates
 
-[View GrantLedger](https://github.com/gabedalmolin/grantledger-platform)
+### [Auth API](https://github.com/gabedalmolin/auth-api-node)
+
+**Production-oriented authentication API** focused on secure session lifecycle design and operational robustness.
+
+**Highlights**
+- JWT access and refresh token rotation
+- Session revocation
+- Refresh-token replay detection
+- Redis rate limiting
+- Prisma and PostgreSQL persistence
+- Automated testing and CI
+- Metrics and benchmarking support
 
 ---
 
-## How I think about software
+## Experience Snapshot
 
-I tend to do my best work when the challenge involves one or more of the following:
+- **Founder and Lead Software Engineer** at [Kopf Studio](https://github.com/Kopf-Studio)
+- Backend and full-stack delivery across **SaaS, internal tools, dashboards, and automation**
+- Leadership experience spanning **engineering, operations, and cross-functional execution**
+- Strong track record translating **business complexity into dependable technical systems**
 
-- turning messy logic into clear structure
-- designing systems that survive retries, failures, and growth
-- improving delivery quality without sacrificing velocity
-- making codebases easier for other engineers to change confidently
-- choosing solutions that will still make sense months later
+---
 
-I care far more about thoughtful systems than flashy code.
+## Selected Impact
+
+- Built internal tools, automations, and workflows that supported scaling Amazon monthly revenue from approximately **$5K to $150K**
+- Helped structure systems and operational processes that contributed to Shopee becoming a **7-figure annual sales channel**
+- Improved execution quality through reporting, automation, and cross-functional systems design
+- Led initiatives connecting **product, commerce, operations, marketing, and technology**
 
 ---
 
 ## Principles
 
 - Clear thinking over clever code
-- Maintainability over shortcuts
 - Explicit contracts over hidden behaviour
 - Reliability over happy-path demos
+- Maintainability over shortcuts
 - Small, reviewable improvements over chaotic rewrites
 - Production standards over local-only solutions
 
 ---
 
-## Let’s connect
+## Connect
 
-If you enjoy talking about backend engineering, software architecture, maintainability, automation, or production-grade systems, I would be glad to connect.
-
-- GitHub: [gabedalmolin](https://github.com/gabedalmolin)
-- LinkedIn: [Gabriel Dalmolin](https://www.linkedin.com/in/gabedalmolin/)
-
----
-
-> Everything negative - pressure, challenges - is all an opportunity for me to rise.
+<p>
+  <a href="https://github.com/gabedalmolin">GitHub</a> •
+  <a href="https://www.linkedin.com/in/gabedalmolin/">LinkedIn</a>
+</p>
