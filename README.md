@@ -92,8 +92,6 @@ Production-grade authentication API with session-backed auth, refresh-token rota
 
 ## Contact
 
-If my work resonates with what you're building, the best place to start is my website.
-
 [![Website](https://img.shields.io/badge/Website-gabriel--dalmolin.vercel.app-111827?style=flat-square)](https://gabriel-dalmolin.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabedalmolin/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabedalmolin)
