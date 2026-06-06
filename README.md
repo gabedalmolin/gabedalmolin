@@ -1,6 +1,6 @@
 # Gabriel Dalmolin
 
-### Lead Software Engineer building reliable backend systems, security tooling, and developer infrastructure.
+### Software Engineer building reliable backend systems, security tooling, and developer infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Backend Architecture-111827?style=flat-square" alt="Backend Architecture" />
@@ -9,8 +9,7 @@
   <img src="https://img.shields.io/badge/Application%20Security-111827?style=flat-square" alt="Application security" />
 </p>
 
-I design and build production-oriented systems around explicit contracts,
-predictable failure handling, security, and long-term maintainability. My work spans backend platforms, asynchronous workflows, authentication, multi-tenant systems, developer tooling, and operational infrastructure.
+I design and build production-oriented systems around explicit contracts, predictable failure handling, security, and long-term maintainability. My work spans backend platforms, asynchronous workflows, authentication, multi-tenant systems, developer tooling, and operational infrastructure
 
 Currently building independent software products through
 **[Kopf Studio](https://github.com/Kopf-Studio)**
@@ -19,7 +18,7 @@ Currently building independent software products through
 
 ## About
 
-I'm a software engineer and founder with **7+ years of experience** building
+I'm a senior software engineer with **7+ years of experience** building
 backend systems, APIs, automations, internal platforms, and production-oriented
 software products.
 
