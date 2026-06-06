@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Application%20Security-111827?style=flat-square" alt="Application security" />
 </p>
 
-I design and build production-oriented systems around explicit contracts, predictable failure handling, security, and long-term maintainability. My work spans backend platforms, asynchronous workflows, authentication, multi-tenant systems, developer tooling, and operational infrastructure
+I design and build production-oriented systems around explicit contracts, predictable failure handling, security, and long-term maintainability. My work spans backend platforms, asynchronous workflows, authentication, multi-tenant systems, developer tooling, and operational infrastructure.
 
 Currently building independent software products through
 **[Kopf Studio](https://github.com/Kopf-Studio)**
@@ -92,12 +92,6 @@ performance validation.
 - Internal tooling, automation, and operational systems
 
 ---
-## Technology Landscape
-
-The technology is selected according to the problem, operational constraints,
-and long-term maintenance cost.
-
----
 
 ## Engineering Principles
 
@@ -110,11 +104,9 @@ and long-term maintenance cost.
 
 ---
 
-## Contact
+## Get in Touch
 
 I'm interested in backend architecture, security tooling, developer
 infrastructure, and technically demanding product problems.
 
-[Portfolio Website](https://gabriel-dalmolin.vercel.app) · 
-[LinkedIn](https://www.linkedin.com/in/gabedalmolin) ·
-[Instagram](https://www.instagram.com/gabedalmolin/)
+[Portfolio Website](https://gabriel-dalmolin.vercel.app)
