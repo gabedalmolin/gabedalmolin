@@ -1,12 +1,12 @@
 # Gabriel Dalmolin
 
-### Lead Software Engineer building reliable backend systems, APIs, and automation-driven products
+### Lead Software Engineer building reliable backend systems, security tooling, and developer infrastructure.
 
 <p>
-  <img src="https://img.shields.io/badge/Backend-Architecture-333?style=-square" alt="Backend Architecture" />
-  <img src="https://img.shields.io/badge/API%20Design-111827?style=-square" alt="API Design" />
-  <img src="https://img.shields.io/badge/Async%20Workflows-111827?style=-square" alt="Async Workflows" />
-  <img src="https://img.shields.io/badge/Application%20Security-111827?style=square" alt="Application security" />
+  <img src="https://img.shields.io/badge/Backend Architecture-111827?style=flat-square" alt="Backend Architecture" />
+  <img src="https://img.shields.io/badge/API%20Design-111827?style=flat-square" alt="API Design" />
+  <img src="https://img.shields.io/badge/Async%20Workflows-111827?style=flat-square" alt="Async Workflows" />
+  <img src="https://img.shields.io/badge/Application%20Security-111827?style=flat-square" alt="Application security" />
 </p>
 
 I design and build production-oriented systems around explicit contracts,
@@ -63,7 +63,7 @@ security.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/gabedalmolin/grantledger-platform/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/gabedalmolin/grantledger-platform/actions/workflows/ci.yml)
 [![Security](https://img.shields.io/github/actions/workflow/status/gabedalmolin/grantledger-platform/security.yml?branch=main&style=flat-square&label=Security)](https://github.com/gabedalmolin/grantledger-platform/actions/workflows/security.yml)
-[![OpenAPI](https://img.shields.io/badge/OpenAPI-schema--first-0f766e?style=flat-square&logo=openapiinitiative&logoColor=white)](https://github.com/gabedalmolin/grantledger-platform/blob/main/docs/openapi/openapi.json)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-schema--first-2563eb?style=flat-square&logo=openapiinitiative&logoColor=white)](https://github.com/gabedalmolin/grantledger-platform/blob/main/docs/openapi/openapi.json)
 
 `Multi-Tenancy` `Idempotency` `Replay Safety` `Async Processing`
 `PostgreSQL` `Prometheus` `Grafana`
@@ -93,14 +93,6 @@ performance validation.
 - Internal tooling, automation, and operational systems
 
 ---
-
-## Business Impact
-
-- Built internal tools, automations, and workflows that contributed to scaling Amazon operations from approximately **$5K to $150K in monthly revenue**
-- Helped structure systems and operational workflows behind Shopee becoming a **7-figure annual sales channel**
-- Improved execution quality through reporting, automation, internal tooling, and cross-functional systems design
-
----
 ## Technology Landscape
 
 The technology is selected according to the problem, operational constraints,
@@ -124,6 +116,6 @@ and long-term maintenance cost.
 I'm interested in backend architecture, security tooling, developer
 infrastructure, and technically demanding product problems.
 
-[Website](https://gabriel-dalmolin.vercel.app) ·
+[Portfolio Website](https://gabriel-dalmolin.vercel.app) · 
 [LinkedIn](https://www.linkedin.com/in/gabedalmolin) ·
-[Kopf Studio](https://github.com/Kopf-Studio)
+[Instagram](https://www.instagram.com/gabedalmolin/)
