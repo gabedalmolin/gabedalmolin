@@ -12,7 +12,7 @@
 I design and build production-oriented systems around explicit contracts, predictable failure handling, security, and long-term maintainability. My work spans backend platforms, asynchronous workflows, authentication, multi-tenant systems, developer tooling, and operational infrastructure.
 
 Currently building independent software products through
-**[Kopf Studio](https://github.com/Kopf-Studio)**
+**[Kopf Studio](https://github.com/Kopf33)**
 
 ---
 
