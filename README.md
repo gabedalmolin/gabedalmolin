@@ -1,6 +1,6 @@
 # Gabriel Dalmolin
 
-### Software Engineer building reliable backend systems, security tooling, and developer infrastructure
+### Senior Software Engineer focused on backend architecture, operational reliability, and application security
 
 <p>
   <img src="https://img.shields.io/badge/Backend Architecture-111827?style=flat-square" alt="Backend Architecture" />
