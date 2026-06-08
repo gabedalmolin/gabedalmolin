@@ -32,7 +32,7 @@ systems that *solve* practical problems.
 
 ## Current Focus
 
-### [Abaris Security](https://github.com/gabedalmolin/abaris-security)
+### [Abaris Security](https://github.com/kopfstudio/abaris-security)
 
 Proof-first vulnerability reproduction and patch-behavior validation for
 open-source maintainers.
@@ -51,7 +51,7 @@ actually tested.
 
 ## Selected Projects
 
-### [GrantLedger Platform](https://github.com/gabedalmolin/grantledger-platform)
+### [GrantLedger](https://github.com/kopfstudio/grantledger)
 
 Change-safe billing infrastructure for multi-tenant SaaS systems.
 
