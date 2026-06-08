@@ -1,12 +1,6 @@
 # Gabriel Dalmolin
 
 ### Lead Software Engineer working across software, automation, and operations-heavy systems
-<p>
-  <img src="https://img.shields.io/badge/Backend Architecture-111827?style=flat-square" alt="Backend Architecture" />
-  <img src="https://img.shields.io/badge/API%20Design-111827?style=flat-square" alt="API Design" />
-  <img src="https://img.shields.io/badge/Async%20Workflows-111827?style=flat-square" alt="Async Workflows" />
-  <img src="https://img.shields.io/badge/Application%20Security-111827?style=flat-square" alt="Application security" />
-</p>
 
 I design and build production-oriented systems around explicit contracts, predictable failure handling, security, and long-term maintainability. My work spans backend platforms, asynchronous workflows, authentication, multi-tenant systems, developer tooling, and operational infrastructure.
 
@@ -100,12 +94,3 @@ performance validation.
 - Secure defaults and least privilege.
 - Observable and reversible operations.
 - Small, reviewable, and maintainable changes.
-
----
-
-## Get in Touch
-
-I'm interested in backend architecture, security tooling, developer
-infrastructure, and technically demanding product problems.
-
-[Portfolio Website](https://gabriel-dalmolin.vercel.app)
