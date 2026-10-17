@@ -1,68 +1,90 @@
 # Gabriel Dalmolin
 
-### Production-minded backend and full-stack engineer
+### Lead Software Engineer working across software, automation, and operations-heavy systems
 
-I'm a senior software engineer with **7+ years of experience** building APIs,
-backend systems, internal tools, and operational automation. I focus on explicit
-contracts, predictable failure handling, security, and long-term maintainability.
+I design and build production-oriented systems around explicit contracts, predictable failure handling, security, and long-term maintainability. My work spans backend platforms, asynchronous workflows, authentication, multi-tenant systems, developer tooling, and operational infrastructure.
 
-Through **[Kopf Studio](https://github.com/kopfstudio)**, I build reliable
-integrations, internal tools, and automation for businesses with manual processes
-or disconnected systems. The goal is practical: less repeated data entry,
-clearer operational visibility, and workflows that can recover safely from failures.
+Currently building independent software products through
+**[Kopf Studio](https://github.com/kopfstudio)**
+
+---
+
+## About
+
+I'm a senior software engineer with **7+ years of experience** building
+backend systems, APIs, automations, internal platforms, and production-oriented
+software products.
+
+My work focuses on systems that must remain reliable as complexity grows:
+authentication, billing, authorization, asynchronous processing, integrations,
+security-sensitive workflows, and operational tooling.
+
+I combine `software architecture`, `product thinking`, `automation`, and `business operations` to build
+systems that *solve* practical problems.
+
+---
+
+## Current Focus
+
+### [Abaris Security](https://github.com/kopfstudio/abaris-security)
+
+Proof-first vulnerability reproduction and patch-behavior validation for
+open-source maintainers.
+
+Abaris is designed to repeat the same controlled security experiment against a
+known-vulnerable baseline and a candidate revision, compare the observations,
+and preserve reproducible evidence.
+
+It does not promise that a system is completely secure. It demonstrates what was
+actually tested.
+
+`Application Security` `Threat Modeling` `Reproducible Evidence`
+`Fail-Closed Design` `Open Source Security`
+
+---
 
 ## Selected Projects
 
 ### [GrantLedger](https://github.com/kopfstudio/grantledger)
 
-Multi-tenant SaaS billing infrastructure with a completed platform baseline and a
-guided self-hosted demo. Implements schema-first contracts, tenant isolation,
-idempotent writes, replay-safe webhooks, asynchronous invoice processing, and
-API and worker observability.
+Change-safe billing infrastructure for multi-tenant SaaS systems.
 
-[CI](https://github.com/kopfstudio/grantledger/actions/workflows/ci.yml) ·
-[Security checks](https://github.com/kopfstudio/grantledger/actions/workflows/security.yml) ·
-[OpenAPI contract](https://github.com/kopfstudio/grantledger/blob/main/docs/openapi/openapi.json)
+Built around schema-first contracts, tenant isolation, idempotent operations,
+replay-safe webhooks, asynchronous orchestration, observability, and supply-chain
+security.
 
-`TypeScript` `Node.js` `PostgreSQL` `Prometheus` `Grafana`
+[![CI](https://img.shields.io/github/actions/workflow/status/gabedalmolin/grantledger-platform/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/gabedalmolin/grantledger-platform/actions/workflows/ci.yml)
+[![Security](https://img.shields.io/github/actions/workflow/status/gabedalmolin/grantledger-platform/security.yml?branch=main&style=flat-square&label=Security)](https://github.com/gabedalmolin/grantledger-platform/actions/workflows/security.yml)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-schema--first-2563eb?style=flat-square&logo=openapiinitiative&logoColor=white)](https://github.com/gabedalmolin/grantledger-platform/blob/main/docs/openapi/openapi.json)
+
+`Multi-Tenancy` `Idempotency` `Replay Safety` `Async Processing`
+`PostgreSQL` `Prometheus` `Grafana`
 
 ### [Authentication API](https://github.com/gabedalmolin/auth-api-node)
 
-Production-oriented authentication service with session lifecycle management,
-refresh-token rotation, replay detection, rate limiting, and observability.
-Includes PostgreSQL and Redis integration tests, a Docker Compose setup, and
-k6 performance validation. See the repository for local setup and API documentation.
+Production-oriented authentication API with session-backed authentication,
+refresh-token rotation, replay detection, rate limiting, observability, and
+performance validation.
 
-[CI](https://github.com/gabedalmolin/auth-api-node/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/gabedalmolin/auth-api-node/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/gabedalmolin/auth-api-node/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/gabedalmolin/auth-api-node?display_name=tag&style=flat-square&label=Release&color=2563eb)](https://github.com/gabedalmolin/auth-api-node/releases/latest)
 
-`TypeScript` `Express` `Prisma` `PostgreSQL` `Redis` `k6`
+`Authentication` `Refresh-Token Rotation` `Replay Detection`
+`Rate Limiting` `Prometheus` `k6`
 
-## Work in Progress
-
-### [Marketplace Sync API](https://github.com/gabedalmolin/marketplace-sync-api)
-
-An incremental FastAPI service being developed toward a commercial demo of
-reliable order ingestion and external synchronization. The application and
-PostgreSQL persistence foundations are implemented; webhook workflows, order
-endpoints, and external synchronization are still planned.
-
-`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic`
-
-### [Abaris](https://github.com/kopfstudio/abaris)
-
-Research and architectural foundations for reproducible vulnerability experiments
-and patch-behavior validation. Intended to compare a supplied reproducer against
-a known-vulnerable baseline and a candidate revision while preserving evidence.
-There is no working CLI or supported execution backend yet.
+---
 
 ## Areas of Expertise
 
-- Backend architecture, API contracts, and system integrations
-- Idempotency, retries, replay safety, and asynchronous workflows
+- Backend architecture and distributed system boundaries
+- API design, schema-first contracts, and integrations
+- Idempotent operations, retries, replay safety, and asynchronous workflows
 - Authentication, authorization, billing, and multi-tenant systems
-- Application security and secure-by-default design
-- Testing, CI/CD, observability, and operational reliability
-- Internal tools, full-stack applications, and business automation
+- Application security and secure-by-default architecture
+- Observability, CI/CD, testing, and production reliability
+- Internal tooling, automation, and operational systems
+
+---
 
 ## Engineering Principles
 
@@ -72,9 +94,3 @@ There is no working CLI or supported execution backend yet.
 - Secure defaults and least privilege.
 - Observable and reversible operations.
 - Small, reviewable, and maintainable changes.
-
-## Project Inquiries
-
-For integration, internal tooling, or automation work, open a
-[project inquiry at Kopf Studio](https://github.com/kopfstudio/.github/issues/new).
-Share a brief description of the workflow and the systems involved; issues are public.
